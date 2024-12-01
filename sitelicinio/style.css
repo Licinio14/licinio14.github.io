@@ -1,0 +1,83 @@
+body {
+    background-color: #262626;
+}
+
+.titulo {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-weight: bolder;
+  }
+
+footer{
+    background-color: #86868620;
+}
+
+.botao {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #00ffb79f;
+    color: white;
+    border: none;
+    padding: 7px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+
+  /* Efeito ao passar o mouse */
+  .botao:hover {
+    background-color: #00ffb7ab;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+
+  /* Efeito ao pressionar */
+  .botao:active {
+    background-color: rgb(0, 255, 8)ab;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    transform: translateY(2px); 
+  }
+
+  .estanestapagina{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #00805b9f;
+    color: white;
+    border: none;
+    padding: 7px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 30px;
+    pointer-events: none;
+  }
+
+  .estanestapagina:hover{
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .linha{
+    color: white;
+    height: 10px;
+    background-color: white;
+    border-radius: 50px;
+    opacity: 100%;
+  }
+
+  .crbtt{
+    background-color: white;
+    border-radius: 1000px;
+    width: 5%;
+    opacity: 80%;
+  }
+
+.igmcr{
+  border-radius: 30px;
+  
+}
