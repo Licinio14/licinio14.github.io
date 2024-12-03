@@ -97,3 +97,63 @@ h5{
   opacity: 100%;
   font-size: 30px;
 }
+
+.social{
+  width: 60px;
+  height: 60px;
+  border-color: black;
+  border-width: 2px;
+  background-color: white;
+}
+
+.textosocial{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-weight: bolder;
+  color: black;
+  background-color: white;
+  opacity: 100%;
+  font-size: 30px;
+}
+
+.linksocial{
+  text-decoration: none;
+}
+
+.linksocial:hover{
+  text-decoration: none;
+}
+
+.linksocial:visited{
+  text-decoration: none;
+}
+
+.imggaleria{
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.full-image {
+  max-width: 100%; /* Ajusta a largura máxima da imagem */
+  max-height: 100%; /* Ajusta a altura máxima da imagem */
+  margin: auto;
+}
+
+.show-image {
+  display: block;
+}
+
+.overlay {
+  display: none;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente */
+  z-index: 999; /* Certifica que o overlay ficará acima de todo o conteúdo */
+  justify-content: center;
+  align-items: center;
+  display: flex; /* Flexbox para centralizar a imagem */
+}
