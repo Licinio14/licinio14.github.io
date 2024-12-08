@@ -99,8 +99,7 @@ h5{
 }
 
 .social{
-  width: 60px;
-  height: 60px;
+  width: auto;
   border-color: black;
   border-width: 2px;
   background-color: white;
@@ -188,12 +187,4 @@ h5{
   background-color: rgb(0, 255, 8)ab;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
   transform: translateY(2px); 
-}
-
-.divcardmain{
-  height: 100%;
-  display:flexbox;
-  justify-content: center;
-  align-self: center;
-
 }
