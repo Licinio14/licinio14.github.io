@@ -10,10 +10,19 @@
         function showImage(index) {
             // Imagens grandes (caminhos das imagens grandes)
             var images = [
-                'imagens/main/e (1).webp', 
-                'imagens/main/e (2).webp', 
-                'imagens/main/e (3).webp',
-                'imagens/main/licinio.jpg'
+                'imagens/galeria/g (1).webp',
+                'imagens/galeria/g (2).webp',
+                'imagens/galeria/g (3).webp',
+                'imagens/galeria/g (4).webp',
+                'imagens/galeria/g (5).webp',
+                'imagens/galeria/g (6).webp',
+                'imagens/galeria/g (7).webp',
+                'imagens/galeria/g (8).webp',
+                'imagens/galeria/g (9).webp',
+                'imagens/galeria/g (10).webp',
+                'imagens/galeria/g (11).webp',
+                'imagens/galeria/g (12).webp'
+                
                 // Adicione mais imagens conforme necessário
             ];
 

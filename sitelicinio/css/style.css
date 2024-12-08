@@ -132,11 +132,13 @@ h5{
 .imggaleria{
   border-radius: 20px;
   margin: 5px;
+  max-width: 300px;
+  padding: 5px;
 }
 
 .full-image {
-  max-width: 100%; /* Ajusta a largura máxima da imagem */
-  max-height: 100%; /* Ajusta a altura máxima da imagem */
+  max-width: 80%; /* Ajusta a largura máxima da imagem */
+  max-height: 1000px; /* Ajusta a altura máxima da imagem */
   margin: auto;
 }
 
@@ -154,8 +156,7 @@ h5{
   background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente */
   z-index: 999; /* Certifica que o overlay ficará acima de todo o conteúdo */
   justify-content: center;
-  align-items: center;
-  display: flex; /* Flexbox para centralizar a imagem */
+  
 }
 
 
