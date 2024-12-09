@@ -12,6 +12,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Protest+Revolution&display=swap" rel="stylesheet">
     <!-- css file link, tem de tar depois do boot! -->
     <link rel="stylesheet" href="css/style.css">
+
+    <!-- teste a ver se da as animaçoes -->
+    <link rel="stylesheet" type="text/css" href="yourpath/all-animation.css" />
     
 
 </head>
@@ -68,10 +71,10 @@
 
       <!-- usar cards para mostrar as imagens -->
        <!-- 1ª linha -->
-      <div class="card-group mx-auto" style="padding-left: 13%;padding-right: auto;">
+      <div class="card-group mx-auto a-flip-right" style="padding-left: 13%;padding-right: auto;">
         <!-- tornando a div inteira num link -->
         <a href="javascript:void(0)" class="linksocial" onclick="showImage(0)">
-            <div class="card animacao" style="border-radius: 20px; margin: 20px;">
+            <div class="card animacao" style="border-radius: 20px; margin: 20px;" id="ani">
                 <img src="imagens/galeria/tumb/tumb (1).webp" alt="Imagem 1" class="imggaleria mx-auto">
                 <div class="card-body">
                   <h5 class="segundotitulo text-center">Palitos vermelhos</h5>
