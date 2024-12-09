@@ -192,3 +192,9 @@ h5{
 input[type="file"]{
   color: transparent;
 }
+
+.animacao:hover{
+  transform: translateY(-20px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
