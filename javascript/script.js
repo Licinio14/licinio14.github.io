@@ -1,6 +1,3 @@
-        
-        
-        
         window.onload = function() {
                 closeOverlay();
         }
@@ -40,3 +37,5 @@
             var overlay = document.getElementById('overlay');
             overlay.style.display = 'none'; // Esconde o overlay
         }
+
+    
