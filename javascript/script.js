@@ -37,10 +37,4 @@
             var overlay = document.getElementById('overlay');
             overlay.style.display = 'none'; // Esconde o overlay
         }
-
-        window.onload = function() {
-            document.querySelector('.ani').classList.add('a-flip-right')
-        }
-        
-
     
