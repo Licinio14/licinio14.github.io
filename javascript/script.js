@@ -54,4 +54,19 @@ function showEmail(){
         
 }
 
+function obrigadoForm(){
+    const name = document.getElementById('Nome').value
+    const email = document.getElementById('Email').value
+    const assunto = document.getElementById('Assunto').value
+    const mens = document.getElementById('Mensagem').value
+    const vali = validarEmail(email)
+
+    if (name != "" && vali == true && assunto != "" && mens != ""){
+        alert('Obrigado por nos contactar ' + name)
+    }
+
+        
+}
+
+
     
