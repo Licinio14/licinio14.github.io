@@ -37,8 +37,21 @@ function closeOverlay() {
     overlay.style.display = 'none'; // Esconde o overlay
 }
 
+function validarEmail(email) {
+    const regex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    return regex.test(email);
+}
+
 function showEmail(){
-        alert("Email registado com sucesso");
+    const email = document.getElementById('form5Example2').value
+    const vali = validarEmail(email)
+
+    if (vali){
+        alert("Obrigado por subscrever!")
+    }else {
+        alert("Insira um email valido!")
+    }
+        
 }
 
     
