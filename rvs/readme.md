@@ -1,6 +1,14 @@
 <h1 align="center"><a href="https://licinio14.github.io/rvs">Open the site!!!</a><h1>
 
 
+# <p align="center">RVS - Style Meets Comfort</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Made%20with-Love-red.svg" alt="Made with Love"></a>
+  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Founded-2025-blue.svg" alt="Founded"></a>
+  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Contributors-3-green.svg" alt="Contributors"></a>
+</p>
+
 ## Algumas coisas que dao para fazer no site:
 
 RVS is more than just a clothing brand—it's a story of friendship, determination, and creative passion brought to life. Born from the collaborative vision of three software developers turned fashion innovators, RVS represents the perfect fusion of technology and style.
@@ -11,14 +19,6 @@ RVS is more than just a clothing brand—it's a story of friendship, determinati
 -Efectuando a compra no carrinho direciona para a pagina de pagamento onde so necessita de preencher os campos com informaçoes validas(caso aja erros mostra uma label a vermelho)
 -Tanto os baners como os cards e o carrancel da pagina home, levam para paginas que nao se encontram dentro do menu(top products, sales, new arrivals)
 -Preenchendo o formulario de contacto leva para a pagina de envio bem sucedido.
-
-# <p align="center">RVS - Style Meets Comfort</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Made%20with-Love-red.svg" alt="Made with Love"></a>
-  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Founded-2025-blue.svg" alt="Founded"></a>
-  <a href="https://github.com/yourusername/RVS"><img src="https://img.shields.io/badge/Contributors-3-green.svg" alt="Contributors"></a>
-</p>
 
 ## 🌟 About RVS
 
