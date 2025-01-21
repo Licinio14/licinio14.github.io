@@ -1,7 +1,5 @@
 <h1 align="center"><a href="https://licinio14.github.io/rvs">Open the site!!!</a><h1>
 
-<p>
-
 Algumas coisas que dao para fazer no site:
 -Temos o login que pode usar qualquer nome(qualquer um), email(ex: a@a.com) e password(qualquer uma) para entrar e ficara a mustrar o nome enquanto navega pelo site;
 -Se usar o login, carregando no nome vai para uma nova pagina que mostra a informação da conta e da para fazer logout;
@@ -10,8 +8,6 @@ Algumas coisas que dao para fazer no site:
 -Tanto os baners como os cards e o carrancel da pagina home, levam para paginas que nao se encontram dentro do menu(top products, sales, new arrivals)
 -Preenchendo o formulario de contacto leva para a pagina de envio bem sucedido.
 
-
-</p>
 
 # <p align="center">RVS - Style Meets Comfort</p>
 
